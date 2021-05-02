@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo service monero restart
+sudo service haven restart
